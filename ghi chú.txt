@@ -1,0 +1,2 @@
+<!-- git reset --soft HEAD^ : Tức là từ Repository về lại Staging area (áp dụng lệnh mới nhất)-->
+<!-- git reset --mixed HEAD^ : Tức là từ Repository về lại Working area (áp dụng lệnh mới nhất)-->
